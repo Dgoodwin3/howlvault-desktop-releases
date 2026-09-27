@@ -1,15 +1,15 @@
 {
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbDFhVERZMmEwamFBU2hlQWRFQVFoZVgvRjVacGdNTHZiMlZUZnRaZFEzUjVIdWprMnkxeVdRUnZ4UXNWay9MeTlWWmIxYzRKUHFvZXpHd3R3VVdmQlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTI0OTE3CWZpbGU6SG93bFZhdWx0LTAuMS4yLW1hYy5hcHAudGFyLmd6CkpYYW9ocFFESThMVmY4dDE5dG5NVzh4YW1ENjRjOENsR3UxbkQwRFZoK0xYcGFOZDVxOWRoNE1tc2o1VW12dnBPREZDMkp3WGRPaG9DTlVJSmkwSUJBPT0K",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v0.1.2/HowlVault-0.1.2-mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbDNJWG4zaXdOTmRKRlFGckJlUGxzRXdmNVNaTEhKVGV6Z1M1SFk5MXVneTJMK2tFNzNHeFFRb2hsdURNVDRGeFgzdGFHdk91TElxenhqd0pMYlMvN0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTM2MTA1CWZpbGU6SG93bFZhdWx0LTAuMS4zLW1hYy5hcHAudGFyLmd6CkRSNUNnVHJGcEs1d1JjSTBuZEFsVXR3QS9hbXJMbjNyUlphektwWU00Ny9seVgxVnhzMjA2VDR3TEpXaFpYRWZrbGlIOG81T3VmejhSb1N5TXhUYUF3PT0K",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v0.1.3/HowlVault-0.1.3-mac.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbDFhVERZMmEwamFBU2hlQWRFQVFoZVgvRjVacGdNTHZiMlZUZnRaZFEzUjVIdWprMnkxeVdRUnZ4UXNWay9MeTlWWmIxYzRKUHFvZXpHd3R3VVdmQlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTI0OTE3CWZpbGU6SG93bFZhdWx0LTAuMS4yLW1hYy5hcHAudGFyLmd6CkpYYW9ocFFESThMVmY4dDE5dG5NVzh4YW1ENjRjOENsR3UxbkQwRFZoK0xYcGFOZDVxOWRoNE1tc2o1VW12dnBPREZDMkp3WGRPaG9DTlVJSmkwSUJBPT0K",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v0.1.2/HowlVault-0.1.2-mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbDNJWG4zaXdOTmRKRlFGckJlUGxzRXdmNVNaTEhKVGV6Z1M1SFk5MXVneTJMK2tFNzNHeFFRb2hsdURNVDRGeFgzdGFHdk91TElxenhqd0pMYlMvN0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNTM2MTA1CWZpbGU6SG93bFZhdWx0LTAuMS4zLW1hYy5hcHAudGFyLmd6CkRSNUNnVHJGcEs1d1JjSTBuZEFsVXR3QS9hbXJMbjNyUlphektwWU00Ny9seVgxVnhzMjA2VDR3TEpXaFpYRWZrbGlIOG81T3VmejhSb1N5TXhUYUF3PT0K",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v0.1.3/HowlVault-0.1.3-mac.app.tar.gz"
     }
   },
-  "version": "0.1.2",
-  "notes": "Sequences: X360/X48 cards in the older row style (minimize to reorder), build X360 sequences with no caller plugged in, FoxPro step warnings, easier step dragging, no sequence preview, layout fixes.",
-  "pub_date": "2026-09-27T16:04:42Z"
+  "version": "0.1.3",
+  "notes": "Tester release: Download to this computer (cloud sounds to your computer in one go), Windows layout fixes, sequence editor updates.",
+  "pub_date": "2026-09-27T19:16:42Z"
 }
