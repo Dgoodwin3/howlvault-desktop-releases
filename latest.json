@@ -1,15 +1,15 @@
 {
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHovbVRTZ1ljTHF6T2hFZm9NamlKbTRPRzNCSmRwT1RjR1lwMWllZGRKZ3lNbHdnL3hCd0l6SEZ5Rk11c0pYbm9SZ21xd3ZURG1SSk0zL2NmSlY2TUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODMwNzc0CWZpbGU6SG93bFZhdWx0LTAuMS43LW1hYy5hcHAudGFyLmd6CmxQWjdWenJBR3ZXb01WeDdoQ1hiNnZrQVVGTm1nYlE3YTVLVGMyL1ljWjRuMkl0eEk4NmxBdnEwME96NjJQTVhNZkxTOHV0Q0FpdGp6Vm9HTkUyRERnPT0K",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v0.1.7/HowlVault-0.1.7-mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHcrR1gvc0dBem82OHNRMy9vcDZ0WE1nQzFqV3lkQW9mQWRaNVpuRkUxRFNhQXEydUovVmErRlo2eTdiUUNZM1lENjZGZWFYbCtKTUFpTll4SEZDb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY2NTU0CWZpbGU6SG93bFZhdWx0LTAuMS44LW1hYy5hcHAudGFyLmd6CmZxWkU2emlURG1jMmIyMkFPZ2hkLzJQd1M4Zkg2bmNWSXE3NHlEcndsTzBmVjZxR1RSTldiUnQ2aGZEaTNFQjNvY0pScnFyOUxQeStpdmRlUWc1YkNBPT0K",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v0.1.8/HowlVault-0.1.8-mac.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHovbVRTZ1ljTHF6T2hFZm9NamlKbTRPRzNCSmRwT1RjR1lwMWllZGRKZ3lNbHdnL3hCd0l6SEZ5Rk11c0pYbm9SZ21xd3ZURG1SSk0zL2NmSlY2TUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODMwNzc0CWZpbGU6SG93bFZhdWx0LTAuMS43LW1hYy5hcHAudGFyLmd6CmxQWjdWenJBR3ZXb01WeDdoQ1hiNnZrQVVGTm1nYlE3YTVLVGMyL1ljWjRuMkl0eEk4NmxBdnEwME96NjJQTVhNZkxTOHV0Q0FpdGp6Vm9HTkUyRERnPT0K",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v0.1.7/HowlVault-0.1.7-mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHcrR1gvc0dBem82OHNRMy9vcDZ0WE1nQzFqV3lkQW9mQWRaNVpuRkUxRFNhQXEydUovVmErRlo2eTdiUUNZM1lENjZGZWFYbCtKTUFpTll4SEZDb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY2NTU0CWZpbGU6SG93bFZhdWx0LTAuMS44LW1hYy5hcHAudGFyLmd6CmZxWkU2emlURG1jMmIyMkFPZ2hkLzJQd1M4Zkg2bmNWSXE3NHlEcndsTzBmVjZxR1RSTldiUnQ2aGZEaTNFQjNvY0pScnFyOUxQeStpdmRlUWc1YkNBPT0K",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v0.1.8/HowlVault-0.1.8-mac.app.tar.gz"
     }
   },
-  "version": "0.1.7",
-  "notes": "Every sound shows its length. New category is always on the toolbar and can add several at once. Sequences: Play and Break in minutes with step buttons, folders in Add Sound. FoxPro slot numbers come off sound names. Settings laid out like the phone app.",
-  "pub_date": "2026-10-01T05:03:40Z"
+  "version": "0.1.8",
+  "notes": "Sound names and details in your vault show in full instead of being cut off.",
+  "pub_date": "2026-10-01T14:59:39Z"
 }
