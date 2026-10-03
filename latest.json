@@ -1,15 +1,15 @@
 {
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHcrR1gvc0dBem82OHNRMy9vcDZ0WE1nQzFqV3lkQW9mQWRaNVpuRkUxRFNhQXEydUovVmErRlo2eTdiUUNZM1lENjZGZWFYbCtKTUFpTll4SEZDb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY2NTU0CWZpbGU6SG93bFZhdWx0LTAuMS44LW1hYy5hcHAudGFyLmd6CmZxWkU2emlURG1jMmIyMkFPZ2hkLzJQd1M4Zkg2bmNWSXE3NHlEcndsTzBmVjZxR1RSTldiUnQ2aGZEaTNFQjNvY0pScnFyOUxQeStpdmRlUWc1YkNBPT0K",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v0.1.8/HowlVault-0.1.8-mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbDBkTDJJUXFrd0VnNUhBa1VFTDJKUVBzYjJPZXBXY3NhYUlmcWlrS2ZzckdKeE5XbUZWL3FyNnVhNGVQV1lXY3BHWXhjbkgyNUpSVFdYK0VWbTJlY0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTgwMzQ0CWZpbGU6SG93bFZhdWx0LTEuMC4wLW1hYy5hcHAudGFyLmd6CktVblIwT2hKd29SMTl4K2lqS3pDL1ZTckgzRmJCQkhpdTVKRDlUWlc0ZW5VUVUweHhqUVB1WHh5eDB4alFqa2dlTG5kcWFoSHRGTGEwZnlMNjJaVUNBPT0K",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.0.0/HowlVault-1.0.0-mac.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHcrR1gvc0dBem82OHNRMy9vcDZ0WE1nQzFqV3lkQW9mQWRaNVpuRkUxRFNhQXEydUovVmErRlo2eTdiUUNZM1lENjZGZWFYbCtKTUFpTll4SEZDb3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwODY2NTU0CWZpbGU6SG93bFZhdWx0LTAuMS44LW1hYy5hcHAudGFyLmd6CmZxWkU2emlURG1jMmIyMkFPZ2hkLzJQd1M4Zkg2bmNWSXE3NHlEcndsTzBmVjZxR1RSTldiUnQ2aGZEaTNFQjNvY0pScnFyOUxQeStpdmRlUWc1YkNBPT0K",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v0.1.8/HowlVault-0.1.8-mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbDBkTDJJUXFrd0VnNUhBa1VFTDJKUVBzYjJPZXBXY3NhYUlmcWlrS2ZzckdKeE5XbUZWL3FyNnVhNGVQV1lXY3BHWXhjbkgyNUpSVFdYK0VWbTJlY0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTgwMzQ0CWZpbGU6SG93bFZhdWx0LTEuMC4wLW1hYy5hcHAudGFyLmd6CktVblIwT2hKd29SMTl4K2lqS3pDL1ZTckgzRmJCQkhpdTVKRDlUWlc0ZW5VUVUweHhqUVB1WHh5eDB4alFqa2dlTG5kcWFoSHRGTGEwZnlMNjJaVUNBPT0K",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.0.0/HowlVault-1.0.0-mac.app.tar.gz"
     }
   },
-  "version": "0.1.8",
-  "notes": "Sound names and details in your vault show in full instead of being cut off.",
-  "pub_date": "2026-10-01T14:59:39Z"
+  "version": "1.0.0",
+  "notes": "HowlVault 1.0.0: first public release. Windows now updates itself; Check for Updates in the menu and Settings.",
+  "pub_date": "2026-10-03T00:15:35Z"
 }
