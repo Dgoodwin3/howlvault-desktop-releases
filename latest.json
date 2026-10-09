@@ -1,19 +1,19 @@
 {
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbDNuc1RzNU1zM2VRMFFqMXVqU0RmM3FSbE1hTVorQXQvNEpmUW5KL2JNVG1ZcWxtb2RVa0xCRzJhOEJqU2RBcUJ0Uk5pdHA4aFVLTHpNRFY1RldQN0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzM0Nzk1CWZpbGU6SG93bFZhdWx0LTEuMC4xLW1hYy5hcHAudGFyLmd6Cm9RRUpmcTFkWElLOEhvTkFSSFNMc0JvZUFSb3ZmSEUreVAxTFVQV2trSU9hb0lUOGVBSmlSKzc3YkFxRlVmTHZxYU45NTlRa3lzVEhSTXlMYTNTdkJnPT0K",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.0.1/HowlVault-1.0.1-mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbDBtK2xMdTZTMmF3c3hody9OaDFPcUcvZlBzVkF4aGJ3R1YrblcyRW9TT3VUZnkxbWpYV3JDTlVkTUFXdmt1LzZHTlFZdGtjZEhDcTEvMDhQWFZTdVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTgxNDI1CWZpbGU6SG93bFZhdWx0LTEuMS4wLW1hYy5hcHAudGFyLmd6CnBRYkExcVVUcWovN25VdFB2cGcvTzJIVmlBQTI0WUs3aUZsNzAvaHdoRisvWW9XWTRzS2MwWjFHSzEybmUweEFjZDNlb2ZHc29FOW4rVnVmYmlXYUFnPT0K",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.1.0/HowlVault-1.1.0-mac.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbDNuc1RzNU1zM2VRMFFqMXVqU0RmM3FSbE1hTVorQXQvNEpmUW5KL2JNVG1ZcWxtb2RVa0xCRzJhOEJqU2RBcUJ0Uk5pdHA4aFVLTHpNRFY1RldQN0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzM0Nzk1CWZpbGU6SG93bFZhdWx0LTEuMC4xLW1hYy5hcHAudGFyLmd6Cm9RRUpmcTFkWElLOEhvTkFSSFNMc0JvZUFSb3ZmSEUreVAxTFVQV2trSU9hb0lUOGVBSmlSKzc3YkFxRlVmTHZxYU45NTlRa3lzVEhSTXlMYTNTdkJnPT0K",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.0.1/HowlVault-1.0.1-mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbDBtK2xMdTZTMmF3c3hody9OaDFPcUcvZlBzVkF4aGJ3R1YrblcyRW9TT3VUZnkxbWpYV3JDTlVkTUFXdmt1LzZHTlFZdGtjZEhDcTEvMDhQWFZTdVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTgxNDI1CWZpbGU6SG93bFZhdWx0LTEuMS4wLW1hYy5hcHAudGFyLmd6CnBRYkExcVVUcWovN25VdFB2cGcvTzJIVmlBQTI0WUs3aUZsNzAvaHdoRisvWW9XWTRzS2MwWjFHSzEybmUweEFjZDNlb2ZHc29FOW4rVnVmYmlXYUFnPT0K",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.1.0/HowlVault-1.1.0-mac.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbCtRKzlyL3Riazd0NTYvNElnNG1ZZHdSVWRReUZVczd6YkNjZHZmQSt1OU9JQnJLNG9TYlExMFdKZWQvbU10c2Z0QnBSa1FwZmwvcStvdUZlZnhhdGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzM1NzA3CWZpbGU6SG93bFZhdWx0XzEuMC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMQoxRTQrU09MVnprdXYwUVhySU9zSHV0bW5WOGRkeDA2dFFkb3lyVzBsaTdrU2ZxMXlyYUN1c0pwamEyM011NDlib3kvd3NWa3Nackp4RGNJZGdraGdBUT09Cg==",
       "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.0.1/HowlVault-1.0.1-windows-setup.exe"
     }
   },
-  "version": "1.0.1",
-  "notes": "HowlVault 1.0.1: much faster caller jobs (rename, move, delete and load many sounds at once), Import to vault skips sounds already saved, X360/X48 .xfp sounds save to the vault, drag several caller sounds at once, X360 New Folder fix.",
-  "pub_date": "2026-10-07T01:20:14Z"
+  "version": "1.1.0",
+  "notes": "Loadouts: build a caller offline and send it with Add or Replace. Caller backups you can restore, synced to your phone. Sequences show missing sounds and can load them first. Many caller safety fixes.",
+  "pub_date": "2026-10-09T21:33:29Z"
 }
