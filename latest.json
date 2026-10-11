@@ -1,19 +1,19 @@
 {
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHk0M3R1cFFNM3FWbFplRWlUZ1RwaWFFVitLUGJjZVBOVWZ3QzluWEdNRkFMUWxTc0hkWGJ1YUFCSVBMQURUblJVU0p4SjYzTDZ1L0tFaU05VkQ0T0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzQ0MTU0CWZpbGU6SG93bFZhdWx0LTEuMS4zLW1hYy5hcHAudGFyLmd6CnpMM29xSXFtWmxCTGtiaS9PRWg3YmgrenBXa09PUFhad2FUaXAybzVZTmpZZFhiLzR3OXd2UnJTR0dtdVBNS0NFV3M5KzBNV3UrTW4wSklZb2c0WkJnPT0K",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.1.3/HowlVault-1.1.3-mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHcxajRIdFpuL3BHOXphNXZ3a1BndkFCWUFaYU1abkZTdVJoSWl4VmRZTEp6WU5YNzNSZ3FEbTZkSDhmVzlodkFHd1dZNjllVVc5TC83T3ExZU1wUVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzUwOTUyCWZpbGU6SG93bFZhdWx0LTEuMS40LW1hYy5hcHAudGFyLmd6CjZCTk9kVysxNU1rV1RuN0h3eWpXNGdPbi9jQzk0NHZ5TWlrT3Q3TGtTTnR2WjBnbWJVSWZKSkwvWkdhQ1JMYWJvbHozdUtyNHVrMHdxNjZjM2VXRUJnPT0K",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.1.4/HowlVault-1.1.4-mac.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHk0M3R1cFFNM3FWbFplRWlUZ1RwaWFFVitLUGJjZVBOVWZ3QzluWEdNRkFMUWxTc0hkWGJ1YUFCSVBMQURUblJVU0p4SjYzTDZ1L0tFaU05VkQ0T0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzQ0MTU0CWZpbGU6SG93bFZhdWx0LTEuMS4zLW1hYy5hcHAudGFyLmd6CnpMM29xSXFtWmxCTGtiaS9PRWg3YmgrenBXa09PUFhad2FUaXAybzVZTmpZZFhiLzR3OXd2UnJTR0dtdVBNS0NFV3M5KzBNV3UrTW4wSklZb2c0WkJnPT0K",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.1.3/HowlVault-1.1.3-mac.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHcxajRIdFpuL3BHOXphNXZ3a1BndkFCWUFaYU1abkZTdVJoSWl4VmRZTEp6WU5YNzNSZ3FEbTZkSDhmVzlodkFHd1dZNjllVVc5TC83T3ExZU1wUVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzUwOTUyCWZpbGU6SG93bFZhdWx0LTEuMS40LW1hYy5hcHAudGFyLmd6CjZCTk9kVysxNU1rV1RuN0h3eWpXNGdPbi9jQzk0NHZ5TWlrT3Q3TGtTTnR2WjBnbWJVSWZKSkwvWkdhQ1JMYWJvbHozdUtyNHVrMHdxNjZjM2VXRUJnPT0K",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.1.4/HowlVault-1.1.4-mac.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHg0b3lyMUViQUlPWG04K09vWUVmNEVYNWl1U3QrUjNEZlRCZ0JRRFRYOU5qMndhY01FWlB1MUhMSWJCSlNOS2lQUDR0MDF1dXdBVkpNMU52aUYxZXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzQ0NTY2CWZpbGU6SG93bFZhdWx0XzEuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMwpRa3Q5MXBiaXlXR2w5b3ZYcmZxRGJ4eGpUclAwNUpMcHAxY05kaVE5OVc0dnFzc1ptOXRFWXBOcWpUaWIrcEc2MDRKak1PSDVNV1dUVCtpUHVHSUhCQT09Cg==",
       "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.1.3/HowlVault-1.1.3-windows-setup.exe"
     }
   },
-  "version": "1.1.3",
-  "notes": "Your vault folder now shows your sounds by name, so you can use them in other apps.",
-  "pub_date": "2026-10-11T18:53:11Z"
+  "version": "1.1.4",
+  "notes": "Import a folder now asks where the sounds go: sort automatically, use your folder names, a new folder, or one of yours.",
+  "pub_date": "2026-10-11T20:45:50Z"
 }
