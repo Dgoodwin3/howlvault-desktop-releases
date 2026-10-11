@@ -9,8 +9,8 @@
       "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.1.4/HowlVault-1.1.4-mac.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbHg0b3lyMUViQUlPWG04K09vWUVmNEVYNWl1U3QrUjNEZlRCZ0JRRFRYOU5qMndhY01FWlB1MUhMSWJCSlNOS2lQUDR0MDF1dXdBVkpNMU52aUYxZXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzQ0NTY2CWZpbGU6SG93bFZhdWx0XzEuMS4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuMwpRa3Q5MXBiaXlXR2w5b3ZYcmZxRGJ4eGpUclAwNUpMcHAxY05kaVE5OVc0dnFzc1ptOXRFWXBOcWpUaWIrcEc2MDRKak1PSDVNV1dUVCtpUHVHSUhCQT09Cg==",
-      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.1.3/HowlVault-1.1.3-windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSenA1NmdHQXhxbC8wR0YzZXgvU21FbkUwUHJ3OVZVSzErZktnSlMrTFVUSU9mWTRPUVpUckJBL1UzdEZLRTF1N3FxNG8xRWpZWkZvVEZEOFJzanZRSVlkTkVTWERlQWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzUxMzU3CWZpbGU6SG93bFZhdWx0XzEuMS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjEuNAo5US9Nd3h1Z0ZpaDMxNjYyNkx5YW1Obkx4M2hhNTJ4THVuNjJ2bkl4WG15emNWQktsa05EVXdvZFJySmt5dFVzS1BJY1dqU2dFR2RmZTJsNERSUnNEUT09Cg==",
+      "url": "https://github.com/Dgoodwin3/howlvault-desktop-releases/releases/download/v1.1.4/HowlVault-1.1.4-windows-setup.exe"
     }
   },
   "version": "1.1.4",
